@@ -1,0 +1,22 @@
+/*==============================*/
+/* File Formats		 			*/
+/*==============================*/
+
+/* Add `bg.jpg` to `.container` class */
+.container {
+    
+    background-image: url("/../img/bg.jpg")
+  
+}
+
+
+
+
+/*==============================*/
+/* DO NOT EDIT BELOW THIS LINE */
+/*==============================*/
+.container {
+	margin: 0 auto; 
+	height: 420px;
+	width: 720px;
+}
